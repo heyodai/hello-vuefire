@@ -1,1 +1,1 @@
-Following this tutorial: https://medium.com/@magyarn/vuefire-crud-todo-list-app-part-1-e069c46b50c6
+Following this tutorial: https://blog.logrocket.com/how-to-build-deploy-vue-js-app-with-cloud-firestore-vuefire/
